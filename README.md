@@ -1,7 +1,3 @@
-# EDMTDev (c) 2019
-
-[![EDMTDev](https://preview.ibb.co/nsr2RV/EDMTDev-Logo.png)](https://youtube.com/eddydn71)
-
 Project develop from Microsoft Project Oxford (Vision)
 # New Features!
   - Remove DefaultHttpClient
@@ -16,7 +12,7 @@ Project develop from Microsoft Project Oxford (Vision)
 		
 2. Add the dependency
 
-	   implementation 'com.github.eddydn:EDMTDevCognitiveVision:1.3'
+	   implementation 'com.github.faisal-kabir:Details_of_image:1.3'
 	 
 ## Usage
 1. Declare Vision Client 
